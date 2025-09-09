@@ -1,3 +1,4 @@
-x = 10
+p = 10
 
-print(x)
+print(p)
+
